@@ -1,0 +1,373 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Auctio Millingtoniana picturarum omnigenarum, &amp;c. A collection of extraordinary paintings &amp; limnings with variety of the finest Italian, French, and other prints, (several of them originals) by the best masters. With many curiosities of the China make, and other artificial rarities. Will be sold by auction, for the diversion and entertainment of the gentlemen, ladies, &amp;c. at Tunbridge-Wells, at the auction coffee-house, by the Lower Walks, near the Wells, on Thursday the 13th of this instant August, 1691. the sale beginning in the morning at eight, and continues till twelve in the forenoon) except Prayer-time.) By Edward Millington.</title>
+            <author>Millington, Edward, d. 1703.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50864</idno>
+            <idno type="STC">Wing M2071</idno>
+            <idno type="STC">ESTC R223751</idno>
+            <idno type="EEBO-CITATION">99834035</idno>
+            <idno type="PROQUEST">99834035</idno>
+            <idno type="VID">38514</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50864)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38514)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1836:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Auctio Millingtoniana picturarum omnigenarum, &amp;c. A collection of extraordinary paintings &amp; limnings with variety of the finest Italian, French, and other prints, (several of them originals) by the best masters. With many curiosities of the China make, and other artificial rarities. Will be sold by auction, for the diversion and entertainment of the gentlemen, ladies, &amp;c. at Tunbridge-Wells, at the auction coffee-house, by the Lower Walks, near the Wells, on Thursday the 13th of this instant August, 1691. the sale beginning in the morning at eight, and continues till twelve in the forenoon) except Prayer-time.) By Edward Millington.</title>
+                  <author>Millington, Edward, d. 1703.</author>
+               </titleStmt>
+               <extent>[2], 2+ p   </extent>
+               <publicationStmt>
+                  <publisher>Catalogues of the paintings and limnings, &amp;c. are given to all gentlemen, ladies, &amp;c. at Mr. Pett's, Mr. Brett's, Mr. Westley's, Apothecaries; at Mr. Samuel Rose's shop, over against the music on the walks, at Mr. Thompsons's tavern near the walks, and at the above mentioned auction coffee house the place of sale,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Imperfect. L copy incomplete with catchword "132AN" on p.2.</note>
+                  <note>Reproduction of the original at the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="lat">lat</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Art --  England --  Catalogs --  Early works to 1800.</term>
+               <term>Art auctions --  England --  London --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:38514:1" rendition="simple:additions"/>
+            <p>
+               <hi>Auctio Millingtoniana <hi>Picturarum Omnigenarum,</hi>
+               </hi> &amp;c.</p>
+            <p>A COLLECTION Of Extraordinary Paintings &amp; Limnings, With variety of the fineſt <hi>Italian, French,</hi> and other PRINTS, (Several of them Originals) by the beſt Maſters. With many Curioſities of the <hi>China</hi> make, and other Artificial Rarities.</p>
+            <p>Will be ſold by Auction, for the Diverſion and Entertainment of the Gentlemen, Ladies, <hi>&amp;c.</hi> at <hi>Tunbridge-Wells,</hi> at the Auction Coffee-houſe, by the Lower Walks, near the Wells, on <hi>Thurſday</hi> the 13th of this inſtant <hi>Auguſt,</hi> 1691.</p>
+            <p>The Sale beginning in the Morning at Eight, and continues till Twelve in the Forenoon) except Prayer-time.)</p>
+            <p>By <hi>Edward Millington.</hi>
+            </p>
+            <p>Catalogues of the Paintings and Limnings, <hi>&amp;c.</hi> are given to all Gentlemen, Ladies, <hi>&amp;c.</hi> at Mr.<hi>Pett's,</hi> Mr. <hi>Brett</hi>'s, Mr. <hi>Weſtley</hi>'s, Apothecaries; at Mr. <hi>Samuel Roſe</hi>'s Shop, over againſt the Muſick on the Walks, at Mr. <hi>Thompſon</hi>'s Tavern near the Walks, and at the above mentioned Auction Coffee houſe the place of Sale. <hi>1691.</hi>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:38514:2"/>
+            <head>To the Nobility, Gentry, Ladies, Gentlewomen, <hi>&amp;c.</hi>
+            </head>
+            <p>THe deſign of this Sale, and of all others made the preceding years in this place, was to gratifie the Curious, to divert the Melancholly, to exerciſe the Judgment of the moſt exalted minds, that condeſcend to grace the Wells, and aggrandize the Walks with their appearance: I am ſufficiently ſenſible, that ab<g ref="char:EOLhyphen"/>ſtractedly from the honeſt gain, I propoſe to my ſelf, that the Honour of your Company, the noble congreſs I have had, hath over and above compenſated the expence of my Time, and the exerciſe of my Lungs; being with nothing more gratified, than that I have had the favour of diſcourſing before perſons of the moſt exquiſite parts (perhaps the ableſt Judges of Senſe and Learning in the World.) This Collection of Paint<g ref="char:EOLhyphen"/>ings will appear to the skilful to be Valuable and Inviting, the Prints that will follow Choice and Curious, carefully preſerved by the Proprie<g ref="char:EOLhyphen"/>tors, deſigned and made by the greateſt Maſters. The <hi>China</hi> Curioſities, moſt of the fineſt make. In ſhort, let the event of this Sale be what it will, I am reſolved neither to be ſowred by a bad, nor elated by a proſpe<g ref="char:EOLhyphen"/>rous one; ſolacing my ſelf in this one grand Philoſophical Conſideration, that if I can but oblige my Friends, pleaſe others, and offer matter of Entertainment indifferently to the whole, I ſhall have attained what I deſired, <hi>viz.</hi> my wiſhes will be conſummated; in the Contemplation of which I am reſolved to live undiſturbed.</p>
+         </div>
+      </front>
+      <body>
+         <div type="conditions_of_sale">
+            <head>Conditions of SALE.</head>
+            <p n="1">I. THat he who bids moſt is the Buyer, and if any Difference ariſe which the Company cannot decide, then the Painting, <hi>&amp;c.</hi> ſhall be Expoſed to Sale again.</p>
+            <p n="2">II. That the Money for the Paintings, <hi>&amp;c.</hi> ſo bought, is to be paid at the place of Sale within three Days after the Sale is ended, but for the Conveniency of ſuch as deſire them ſooner, conſtant Attendance for delivery will be given every Afternoon at the ſaid place.</p>
+            <p n="3">III. That all Gentlemen, Ladies, <hi>&amp;c.</hi> after the buying any Painting or Limning, will be pleaſed to give in their Names and Lodgings, at the Wells, otherwiſe to pay the third part of the Price, or the whole Money preſently for them; where upon payment of the remainder within the time limited, the Paintings, Limnings, <hi>&amp;c.</hi> ſhall be delivered to them or their Order.</p>
+            <p n="4">IV. That for the Accommodation of ſuch Gentlemen and Ladies, <hi>&amp;c.</hi> as ſhall deſire to receive the Paintings, <hi>&amp;c.</hi> in <hi>London,</hi> the <g ref="char:V">Ʋ</g>ndertaker will deliver them at any place they ſhall appoint in <hi>London, Southwark,</hi> or <hi>Weſtminſter,</hi> the Buyer paying <hi>1 <abbr>s</abbr> per Pound</hi> for every <hi>20 <abbr>s</abbr>
+               </hi> ſo bought.</p>
+            <p n="5">V. That no perſon is to bid leſs than Six-pence a time, for any Lot expoſed to Sale.</p>
+            <p n="6">VI. That for the further encouragement of all Gentlemen, Ladies, <hi>&amp;c.</hi> that live in the Country, the <g ref="char:V">Ʋ</g>ndertaker propoſes for the ſafer Conveyance of any Paintings, <hi>&amp;c.</hi> they ſhall buy, they ſhall be carefully packed up at his own proper Charge.</p>
+            <p n="7">VII. That the Paintings, Limnings, <hi>&amp;c.</hi> may be viewed every Afternoon be<g ref="char:EOLhyphen"/>fore the Morning Sale, by any perſons that pleaſe to repair to the place of Sale.</p>
+            <p>This Sale will begin on <hi>Thurſday</hi> the 13th of <hi>Auguſt,</hi> 1691. at the Aucti<g ref="char:EOLhyphen"/>on Coffee-houſe, by the Lower Walks, near the Wells, from the Hours of Eight to Twelve in the Forenoon (except Prayer time) and will be continued daily the ſame Hours, till all the Paintings, Limn<g ref="char:EOLhyphen"/>ings, <hi>&amp;c.</hi> are Sold.</p>
+         </div>
+         <div type="list_of_paintings">
+            <pb n="1" facs="tcp:38514:2"/>
+            <head>PAINTINGS.</head>
+            <list>
+               <item>1 KIng <hi>William</hi> and Qu. <hi>Mary</hi> in little, finely painted</item>
+               <item>2 Queen <hi>Dido,</hi> by <hi>Van Heyden</hi>
+               </item>
+               <item>3 a Landskip in Limning</item>
+               <item>4 a Landskip by <hi>Leonard</hi>
+               </item>
+               <item>5 Two Boys finely painted by an Italian</item>
+               <item>6 a naked <hi>Venus</hi> finely painted</item>
+               <item>7 <hi>Anna Bullein</hi> King <hi>Henry</hi> VIII. Queen</item>
+               <item>8 a Sea ſtorm curiouſly painted by a <hi>Dutch</hi> Maſter</item>
+               <item>9 King <hi>William</hi> finely painted, in an oval Frame</item>
+               <item>10 A large ſea-piece in black and white, by <hi>Mooy</hi>
+               </item>
+               <item>11 a Landskip, by <hi>Clever</hi>
+               </item>
+               <item>12 Old <hi>Boon</hi> with a roaſted Pullet</item>
+               <item>13 Two ſmall Landskips</item>
+               <item>14 a fire-piece, by <hi>Clever</hi>
+               </item>
+               <item>15 a fruit-piece, by <hi>Verelſt</hi>
+               </item>
+               <item>16 <hi>Pandora</hi> finely painted</item>
+               <item>17 a curious piece by <hi>Bega</hi>
+               </item>
+               <item>18 a Head by <hi>Cornelius Johnſon</hi>
+               </item>
+               <item>19 a Landskip curiouſly painted by <hi>Soynge</hi>
+               </item>
+               <item>20 a Sea calm, by <hi>William Vandevelde</hi>
+               </item>
+               <item>21 Two Landskips by <hi>Velamena</hi>
+               </item>
+               <item>22 a ſleeping piece, by <hi>Larroon</hi>
+               </item>
+               <item>23 a piece of Boors by <hi>Teniers</hi>
+               </item>
+               <item>24 a ſmall ſea-piece by <hi>Mooy</hi>
+               </item>
+               <item>25 a Landskip</item>
+               <item>26 a Fruit-piece with a Parrot</item>
+               <item>27 A piece of Apricocks</item>
+               <item>28 <hi>Venus</hi> and <hi>Cupids</hi>
+               </item>
+               <item>29 Madona on copper by <hi>Van Heyden</hi>
+               </item>
+               <item>30 A piece of Oyſters by <hi>Herman Verelſt</hi>
+               </item>
+               <item>31 an original Landskip, by a great maſter</item>
+               <item>32 a flower-piece finely painted</item>
+               <item>33 King <hi>Charles</hi> II. finely painted</item>
+               <item>34 The Duke of <hi>Monmonth</hi>
+               </item>
+               <item>35 The Princeſs <hi>Ann</hi> (when young) in Crions</item>
+               <item>36 a caſe of Cups, a great curioſity</item>
+               <item>37 a Sea calm curiouſly painted by <hi>Brain</hi>
+               </item>
+               <item>38 a piece of Thunder and Lightning finely expreſſed in black and white</item>
+               <item>39 a Ruine with Figures, by <hi>Molenaer</hi>
+               </item>
+               <item>40 An original Droll piece, well painted</item>
+               <item>41 <hi>Mary Magdalen</hi> in the Wilderdeſs, by <hi>Ver Strada</hi>
+               </item>
+               <item>42 a Fruit-piece by <hi>Verelſt</hi>
+               </item>
+               <item>43 <hi>Venus</hi> kiſſing <hi>Cupid,</hi> by <hi>Van Heyden</hi>
+               </item>
+               <item>44 <hi>Venus</hi> whipping by the ſame Maſter</item>
+               <item>45 a piece of Walnuts by <hi>Van Ball</hi>
+               </item>
+               <item>46 a Flower piece by <hi>Verelſt</hi>
+               </item>
+               <item>47 a Landskip by <hi>Edema</hi>
+               </item>
+               <item>48 a Landskip in Limning</item>
+               <item>49 St. <hi>Anthonys</hi> viſion very finely done</item>
+               <item>50 Waterfall, by <hi>Vander Stratten</hi>
+               </item>
+               <item>51 a Landskip by the ſame maſter</item>
+               <item>52 a Duck finely painted after the Life</item>
+               <item>53 a Landskip with a Sea port, by <hi>Van Goyen</hi>
+               </item>
+               <item>54 a Landskip with Cattle, by <hi>Bartel Engels</hi>
+               </item>
+               <item>55 a ſea-piece by <hi>Antonius</hi>
+               </item>
+               <item>56 a Ruine with Figures, by old <hi>Wyck</hi>
+               </item>
+               <item>57 a Water mill by <hi>Leonard</hi>
+               </item>
+               <item>58 a piece of Fruit by <hi>Bogdan</hi>
+               </item>
+               <item>59 a Sea piece by <hi>Brain</hi>
+               </item>
+               <item>60 a Fruit piece by <hi>Verelſt</hi>
+               </item>
+               <item>61 <hi>Pandora,</hi> by <hi>Van Heyden</hi>
+               </item>
+               <pb n="2" facs="tcp:38514:3"/>
+               <item>62 <hi>Cleopatra</hi> by the ſame Maſter</item>
+               <item>63 The Centurion meeting Chriſt</item>
+               <item>64 A Droll piece by <hi>Stelenwerf</hi>
+               </item>
+               <item>65 a Landskip by <hi>Vander Stratten</hi>
+               </item>
+               <item>66 a <hi>Madona</hi> curiouſly painted by a <hi>Dutch</hi> maſter</item>
+               <item>67 a Fire-piece curiouſly painted</item>
+               <item>68 a ſmall Landskip by <hi>Soyngee</hi>
+               </item>
+               <item>69 a large Landskip by <hi>Wynants</hi>
+               </item>
+               <item>70 a Sea-ſtorm by <hi>Backhouſen</hi>
+               </item>
+               <item>71 a Dairy-houſe by <hi>Polhill</hi>
+               </item>
+               <item>72 a Landskip with Cattel by <hi>Flyker</hi>
+               </item>
+               <item>73 a Kitchen-piece by <hi>Salee</hi>
+               </item>
+               <item>74 a Landskip with Figures by <hi>Rombouts</hi>
+               </item>
+               <item>75 a Landskip in Limning</item>
+               <item>76 a Fruit-piece curiouſly painted by <hi>Verelſt</hi>
+               </item>
+               <item>77 a piece of Crabs by <hi>Verelſt</hi>
+               </item>
+               <item>78 <hi>Hagar</hi> by an <hi>Italian</hi>
+               </item>
+               <item>79 a Flower-piece by <hi>Verelſt</hi>
+               </item>
+               <item>80 a Landskip by <hi>Edema</hi>
+               </item>
+               <item>81 <hi>Cleopatra</hi> by an <hi>Italian</hi>
+               </item>
+               <item>82 a Landskip well painted</item>
+               <item>83 a proſpect of the burning of <hi>London,</hi> an Orig.</item>
+               <item>84 a ſmall Sea-piece by <hi>Percellus</hi>
+               </item>
+               <item>85 a Sea piece curiouſly painted by <hi>Brain</hi>
+               </item>
+               <item>86 a Sea-piece in Black and White, by <hi>Moy</hi>
+               </item>
+               <item>87 a Landskip with Cattel, ſuppoſed by <hi>Krabbe</hi>
+               </item>
+               <item>88 a Landskip by <hi>Leonard</hi>
+               </item>
+               <item>89 <hi>Venus</hi> and <hi>Cupid</hi> by <hi>Van Heyden</hi>
+               </item>
+               <item>90 <hi>Venus</hi> kiſſing <hi>Cupid,</hi> by the ſame maſter</item>
+               <item>91 <hi>Venus</hi> whipping <hi>Cupid,</hi> by the ſame</item>
+               <item>92 <hi>Cleopatra</hi> by <hi>Van Heyden</hi>
+               </item>
+               <item>93 <hi>Hagar</hi> by the ſame maſter</item>
+               <item>94 a Fruit-piece by <hi>Verelſt</hi>
+               </item>
+               <item>95 a piece of Still-life by <hi>Everbrook</hi>
+               </item>
+               <item>96 a ſmall Sea-piece by <hi>Brain</hi>
+               </item>
+               <item>97 a Landskip by <hi>Vander Stratten</hi>
+               </item>
+               <item>98 another by the ſame maſter</item>
+               <item>99 a Fools Head</item>
+               <item>100 a Landskip with Figures by <hi>Boot,</hi> in a rich carv'd Frame</item>
+               <item>101 <hi>Venus</hi> combing <hi>Cupid,</hi> by <hi>Van Heyden</hi>
+               </item>
+               <item>102 a Fruit-piece on Copper, by <hi>Verelſt</hi>
+               </item>
+               <item>103 <hi>Venus</hi> uncovering <hi>Cupid,</hi> by <hi>Van Heyden</hi>
+               </item>
+               <item>104 a Flower-piece by <hi>Verelſt</hi>
+               </item>
+               <item>105 a Sea-piece by <hi>Brain</hi>
+               </item>
+               <item>106 <hi>Venus</hi> and <hi>Cupid</hi> by <hi>Van Heyden</hi>
+               </item>
+               <item>107 a Landskip by <hi>Krabb</hi>
+               </item>
+               <item>108 a Landskip with Cattel, by <hi>Bartel Engels</hi>
+               </item>
+               <item>109 a Robbery curiouſly painted by <hi>Wyck</hi>
+               </item>
+               <item>110 an Original piece of dead Birds</item>
+               <item>111 a Kitchin-piece by <hi>Labee</hi>
+               </item>
+               <item>112 a Landskip curiouſly painted by <hi>Leonard</hi>
+               </item>
+               <item>113 a Fruit piece on Copper, by <hi>Verelſt</hi>
+               </item>
+               <item>114 <hi>Pandora</hi> curiouſly painted on Copper</item>
+               <item>115 a Landskip by <hi>Vander Strada</hi>
+               </item>
+               <item>116 <hi>Lucretia,</hi> from the Original of <hi>Titian</hi>
+               </item>
+               <item>117 a Landskip by <hi>Griffiere</hi>
+               </item>
+               <item>118 a Landskip by <hi>Verſtratten</hi>
+               </item>
+               <item>119 a Landskip with Figures by <hi>Flyker</hi>
+               </item>
+               <item>120 The Lady <hi>Killegrew,</hi> finely painted</item>
+               <item>121 A Church with Figures by <hi>Stenmick</hi>
+               </item>
+               <item>122 a Landskip curiouſly painted, by <hi>Van Goyen</hi>
+               </item>
+               <item>123 a large Sea-port well done in black &amp; white by <hi>Moy</hi>
+               </item>
+               <item>124 Two Droll pieces, by <hi>David Teniers</hi>
+               </item>
+               <item>125 a Fruit-piece on Copper, by <hi>Varelst</hi>
+               </item>
+               <item>126 Another Fruit piece by the ſame maſter</item>
+               <item>127 a Landskip, by <hi>Vander Strada</hi>
+               </item>
+               <item>128 a Fruit-piece on copper, by <hi>Verelſt</hi>
+               </item>
+               <item>129 a Landskip with a Church, by <hi>Leonard</hi>
+               </item>
+               <item>130 a Hiſtory-piece between Violence and Innocence</item>
+               <item>131 <hi>Bacchus</hi> and <hi>Ariadne</hi> curiouſly painted by an Italian</item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI>
